@@ -117,7 +117,7 @@ Building scalable, cloud-agnostic systems that drive business impact. Recently a
 
 <div align="center">
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kritip-chakrabarti&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kritip123&theme=react-dark&hide_border=true)
 
 </div>
 
