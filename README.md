@@ -42,11 +42,11 @@ Building scalable, cloud-agnostic systems that drive business impact. Recently a
 
 <div align="center">
   
-![Kritip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritip-chakrabarti&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Kritip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kritip123&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritip-chakrabarti&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritip123&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kritip-chakrabarti&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kritip123&theme=radical&hide_border=true)
 
 </div>
 
