@@ -91,7 +91,7 @@ Building scalable, cloud-agnostic systems that drive business impact. Recently a
 **Mumbai, India**
 - Architected AI-driven audience prediction workflows
 - Built cloud-agnostic systems supporting AWS and Azure
-- Led cross-team projects improving efficiency by 70%
+- Led cross-team projects, improving efficiency by 70%
 - Mentored engineers and drove $2M revenue from feature upgrades
 
 ### Software Engineer Intern @ FICO *(Jun 2021 - Dec 2021)*
@@ -126,10 +126,10 @@ Building scalable, cloud-agnostic systems that drive business impact. Recently a
   
 ### 💡 "Building scalable systems that drive real business impact"
 
-![Profile Views](https://komarev.com/ghpvc/?username=kritip-chakrabarti&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Kritip123&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-⭐️ From [Kritip Chakrabarti](https://github.com/kritip-chakrabarti)
+⭐️ From [Kritip Chakrabarti](https://github.com/Kritip123)
