@@ -1,13 +1,13 @@
 # Hi there, I'm Kritip Chakrabarti 👋
 
 ## About Me
-- 🔭 I'm currently working as a **Backend Engineer** at CleverTap, building AI-driven audience prediction systems
-- 🌱 I'm passionate about **cloud-agnostic architectures**, **machine learning**, and **scalable backend systems**
-- 💼 I specialize in **Java**, **Spring**, **AWS/Azure**, and **distributed systems**
-- 🎯 I love solving complex problems and have contributed to **$7M+ in enterprise deals** through technical solutions
-- 🏆 Award winner for **Collaboration and Team Spirit** at CleverTap
-- 📫 How to reach me: kritipchakrabarti123@gmail.com
-- ⚡ Fun fact: I built an open-source cab booking app for rural areas during college!
+- I'm currently working as a **Backend Engineer** at CleverTap, building AI-driven audience prediction systems
+- I'm passionate about **cloud-agnostic architectures**, **machine learning**, and **scalable backend systems**
+- I specialize in **Java**, **Spring**, **AWS/Azure**, and **distributed systems**
+- I love solving complex problems and have contributed to **$7M+ in enterprise deals** through technical solutions
+- Award winner for **Collaboration and Team Spirit** at CleverTap
+- How to reach me: kritipchakrabarti123@gmail.com
+- Fun fact: I built an open-source cab booking app for rural areas during college!
 
 ## 🚀 Current Focus
 Building scalable, cloud-agnostic systems that drive business impact. Recently architected AI-driven audience prediction workflows that boosted marketing ROI by 50% for enterprise clients.
@@ -105,13 +105,6 @@ Building scalable, cloud-agnostic systems that drive business impact. Recently a
 **BTech in Computer Science** | Kalinga Institute of Industrial Technology *(2018-2022)*
 - **GPA**: 9.46/10.0
 - **Relevant Coursework**: Data Structures, Algorithms, Database Systems, Software Engineering
-
-## 🌟 What I'm Working On
-
-- **🔬 Research**: Exploring advanced ML techniques for customer behavior prediction
-- **🌱 Learning**: Diving deeper into distributed systems and microservices architecture
-- **🤝 Mentoring**: Helping junior engineers grow their technical skills
-- **📚 Sharing**: Writing technical blogs about scalable backend architectures
 
 ## 📈 GitHub Activity
 
