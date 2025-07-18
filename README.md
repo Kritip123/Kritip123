@@ -3,7 +3,7 @@
 ## About Me
 - I'm currently working as a **Backend Engineer** at CleverTap, building AI-driven audience prediction systems
 - I'm passionate about **cloud-agnostic architectures**, **machine learning**, and **scalable backend systems**
-- I specialize in **Java**, **Spring**, **AWS/Azure**, and **distributed systems**
+- I specialize in **Java**, **Spring**, **AWS/Azure**, **MongoDB**, **SQL**, and **distributed systems**
 - I love solving complex problems and have contributed to **$7M+ in enterprise deals** through technical solutions
 - Award winner for **Collaboration and Team Spirit** at CleverTap
 - How to reach me: kritipchakrabarti123@gmail.com
