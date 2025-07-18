@@ -61,25 +61,25 @@ Building scalable, cloud-agnostic systems that drive business impact. Recently a
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI-Driven Audience Prediction System]
+### AI-Driven Audience Prediction System
 **Enterprise-grade ML system** for customer segmentation and targeting
 - **Technologies**: Java, Spring, AWS, Azure, Machine Learning
 - **Impact**: 50% boost in marketing ROI for enterprise clients
 - **Scale**: Cloud-agnostic architecture with batch processing
 
-### 🌐 [Cloud-Agnostic Segment Ingestion System]
+### Cloud-Agnostic Segmentation
 **Scalable data ingestion** supporting both UI and API uploads
 - **Technologies**: Java, AWS S3, Azure Blob, REST APIs
 - **Impact**: Enabled $5M enterprise deal
 - **Features**: Multi-cloud support, real-time processing
 
-### 📱 [Find Ride App](https://github.com/Kritip123/Find-Ride)
+### Find Ride App
 **Open-source cab booking app** for rural areas with real-time bargaining
 - **Technologies**: Android Studio, Firebase, Java
 - **Impact**: Serving underserved rural communities
 - **Features**: Real-time driver-passenger negotiation, location-based services
 
-### 🔧 [DAM License Generation Tool]
+### DAM License Generation Tool
 **Automation tool** for credit bureau license generation at FICO
 - **Technologies**: Java, Vanilla JS, AJAX, REST APIs
 - **Impact**: Eliminated manual processes, increased team efficiency
