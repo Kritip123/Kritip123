@@ -1,4 +1,4 @@
-# Hi there, I'm [Kritip Chakrabarti] 👋
+# Hi there, I'm Kritip Chakrabarti 👋
 
 ## About Me
 - I'm currently working as Software Engineer at CleverTap
