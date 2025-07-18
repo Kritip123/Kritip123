@@ -1,12 +1,12 @@
 # Hi there, I'm [Kritip Chakrabarti] 👋
 
 ## About Me
-- 🔭 I'm currently working as [Software Engineer at CleverTap]
-- 🌱 I'm currently learning [Java, Azure, Aws, MongoDB, Kafka, Redis, Spring, Struts, SQL and lot more]
-- 👯 I'm looking to collaborate on [large scale projects]
-- 💬 Ask me about [the best coding practices and how to design scalable systems]
-- 📫 How to reach me: [kritipchakrabarti123@gmail.com]
-- ⚡ Fun fact: [if my body is a Kafka server, caffine is the only producer]
+- I'm currently working as Software Engineer at CleverTap
+- I'm currently learning Java, Azure, Aws, MongoDB, Kafka, Redis, Spring, Struts, SQL and lots more.
+- I'm looking to collaborate on large scale projects
+- Ask me about the best coding practices and how to design scalable systems
+- How to reach me: kritipchakrabarti123@gmail.com
+- Fun fact: if my body is a Kafka server, caffine is the only producer
 
 ## Tech Stack
 ### Languages
